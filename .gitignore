@@ -95,3 +95,8 @@ Content/StarterContent/*
 Content/Characters/*
 Content/LevelPrototyping/*
 Content/ThirdPerson/*
+
+#First Person Content
+Content/Characters/*
+Content/LevelPrototyping/*
+Content/FirstPerson/*
